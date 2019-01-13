@@ -1,8 +1,8 @@
-# RAHS Clubs
-An informational guide to the amazing clubs at Rancho Alamitos High School.
+# Whitney Young High School Clubs
+An informational guide to the amazing clubs at Whitney Young High School.
 
 ### links:
-* [Live Website](https://vaqcoders.github.io/rahsclubs/)
+* [Live Website](https://x-Ry.github.io/wyclub/)
 * [Coding Train Video on Local Host](https://www.youtube.com/watch?v=UCHzlUiDD10)
 * [FullCalendar API](https://fullcalendar.io/)
 * [FullCalendar JSON Format](https://fullcalendar.io/docs/event-object)
