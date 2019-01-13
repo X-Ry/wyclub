@@ -1,7 +1,7 @@
 {
-  "name": "rahsclubs",
+  "name": "wyclub",
   "version": "1.0.0",
-  "description": "An informational guide to the clubs at Rancho Alamitos High School",
+  "description": "An informational guide to the clubs at Whitney Young High School",
   "main": "index.js",
   "scripts": {
     "test": "http-server"
