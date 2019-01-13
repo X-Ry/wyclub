@@ -1,16 +1,16 @@
 {
-  "name": "CSF",
+  "name": "AppInventor",
   "imgsrc": "csf.png",
-  "description": "Welcome to Rancho Alamitos High School's CSF!",
+  "description": "Welcome to Whitney Young App Inventor Club!",
   "officers": [
     {
       "position": "President",
-      "name": "Michelle Vu",
+      "name": "Ryan Newkirk",
       "link": "https://www.facebook.com/micheggg"
     },
     {
       "position": "Vice President",
-      "name": "Son Le",
+      "name": "John Wu",
       "link": "https://www.facebook.com/profile.php?id=100008034821444"
     },
     {
@@ -32,7 +32,7 @@
  "announcements": [
    {
      "title": "Meetings",
-     "description": "CSF meetings take place on the first Friday of each month in the South Gym during lunchtime. Meetings are always mandatory."
+     "description": "App Inventor meetings take place on the Tuesday afternoon from 3:30 to 5:30."
    }
  ],
   "links": [
