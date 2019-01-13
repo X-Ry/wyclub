@@ -1,0 +1,238 @@
+@import url("https://fonts.googleapis.com/css?family=Courgette|Work+Sans");
+
+html, body {
+  margin: 0;
+  max-width: 100vw;
+  background-image: url(../cgi-bin/bg_wrapper.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+* {
+  font-family: "Work Sans", sans-serif;
+}
+
+hr {
+  width: 75%;
+  border: 1px solid black;
+  margin: 0;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+p {
+  font-family: "Work Sans", sans-serif;
+  margin-bottom: 1em;
+  text-indent: 1em;
+  max-width: 45vw;
+}
+
+#content {
+  margin: 0 auto;
+  margin-top: 25vh;
+}
+
+#noResults {
+  text-align: center;
+  font-size: 3em;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  background-color: #EEEAE0;
+  box-shadow: 0px 5px 5px #D8A319;
+  z-index: 2;
+} header > h1 {
+  font-size: 4em;
+  padding-left: 10vw;
+  font-family: "Work Sans", sans-serif;
+  margin: 0;
+}
+
+footer {
+  background-color: #FAFAFA;
+  text-align: right;
+  bottom: 0px;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
+
+#calendar {
+  width: 80%;
+  max-width: 900px;
+  margin: 40px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5%;
+  height: 75%;
+}
+
+.fc-content {
+  font-size: 0.4em;
+} .fc-content:hover {
+  overflow: visible;
+} .fc-event, .fc-event-dot {
+  background-color: #283B04;
+} .fc-title {
+  color: white;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 4;
+  top: 0;
+  left: 0;
+  background-color: rgba(17, 17, 17, 0.95);
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  overflow-y: hidden;
+} .sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+} .sidenav a:hover {
+  color: #f1f1f1;
+} .sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+} @media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+#school_logo_header {
+	width: 20vw;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -151px;
+	z-index: 9;
+} #school_logo_header h1 {
+	background: url(../cgi-bin/bg_logo.png) 0 0 no-repeat;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	width: 302px;
+	z-index: 999;
+	text-align: center;
+} #school_logo_header h1 a, #school_logo_header h1 a:visited, #school_logo_header h1 a:link, #school_logo_header h1 a:active {
+	display: block;
+	font: 34px/1 'averia', serif;
+	color: #283b04;
+	height: 131px;
+	width: 302px;
+	text-decoration: none;
+	padding: 33px 0 0;
+	text-transform: none;
+} #school_logo_header h1 a span {
+	font-size: 24px;
+	display: block;
+  font: 34px/1 'averia', serif;
+	letter-spacing: normal;
+	letter-spacing: 5px;
+	margin: 10px 0 0;
+}
+
+#calendar-icon {
+  position: fixed;
+  left: 4.5vw;
+  top: 10px;
+  z-index: 3;
+  width: 30px;
+  cursor: pointer;
+} #calendar-icon:hover {
+  -webkit-transition: filter 1s ease-in-out; /* Safari */
+  transition: filter 1s ease-in-out;
+  filter: blur(1px);
+}
+
+.search {
+  position: fixed;
+  left: 12vw;
+  top: 10px;
+  z-index: 3;
+  height: 20px;
+} .clean-slide {
+  position: relative;
+  display: inline-block;
+  width: 15vw;
+  padding: 10px 0 10px 15px;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  color: #377d6a;
+  background: #efefef;
+  border: 0;
+  border-radius: 3px;
+  outline: 0;
+  text-indent: 60px;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 2px 1px #D8A319;
+} .clean-slide::-webkit-input-placeholder {
+  color: #efefef;
+  text-indent: 0;
+  font-weight: 300;
+} .clean-slide + label {
+  display: inline-block;
+  position: absolute;
+  transform: translateX(0);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  padding: 13px 15px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #032429;
+  text-align: left;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .4);
+  transition: all 0.3s ease-in-out, color 0.3s ease-out;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  overflow: hidden;
+  height: 9px;
+} .clean-slide + label:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 100%;
+  bottom: 0;
+  width: 100%;
+  background: #7ab893;
+  z-index: -1;
+  transform: translate(0);
+  transition: all 0.3s ease-in-out;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+} .clean-slide:focus, .clean-slide:active {
+  color: #377d6a;
+  text-indent: 0;
+  background: #fff;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+} .clean-slide:focus::-webkit-input-placeholder, .clean-slide:active::-webkit-input-placeholder {
+  color: #aaa;
+} .clean-slide:focus + label, .clean-slide:active + label {
+  color: #fff;
+  text-shadow: 0 1px 0 rgba(19, 74, 70, .4);
+  transform: translateX(-100%);
+} .clean-slide:focus + label:after, .clean-slide:active + label:after {
+  transform: translate(100%);
+}

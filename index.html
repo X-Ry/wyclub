@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>RAHS Clubs</title>
+  <link rel="shortcut icon" type="image/x-icon" href="cgi-bin/rahs.ico">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/cards.css">
+
+  <link rel="stylesheet" href="lib/fullcalendar.css">
+  <link rel="stylesheet" href="lib/ply.css">
+  <script src="lib/moment.js"></script>
+  <script src="lib/jquery.js"></script>
+  <script src="lib/fullcalendar.js"></script>
+  <script src="lib/ply.js"></script>
+
+  <script src="js/club.js"></script>
+</head>
+
+<body id="top">
+
+<header>
+  <div id="school_logo_header">
+    <h1>
+      <a href="#top">
+        Rancho Alamitos
+        <span>Clubs</span>
+      </a>
+    </h1>
+  </div>
+</header>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div id="calendar"></div>
+</div>
+
+<img src="cgi-bin/calicon.png" id="calendar-icon" onclick="openNav()">
+
+<div class="search">
+  <input class="clean-slide" id="search" type="text" placeholder="steam, vsa, vaqcoders, etc"/>
+  <label for="search">Search</label>
+</div>
+
+<div id="content">
+  <div id="noResults" style="display: none;"></div>
+</div>
+
+<br><br><br>
+
+<footer>
+  <a href="https://github.com/vaqcoders/rahsclubs">GitHub Repo</a> |
+  <a href="https://goo.gl/forms/c9IumBE9f0OkIltG3">Submit Your Club</a> |
+  Vaqcoders &copy; 2019 |
+  &hearts;
+</footer>
+
+<script src="js/main.js"></script>
+
+</body>
+
+</html>

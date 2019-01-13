@@ -1,0 +1,44 @@
+{
+  "name": "CSF",
+  "imgsrc": "csf.png",
+  "description": "Welcome to Rancho Alamitos High School's CSF!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Michelle Vu",
+      "link": "https://www.facebook.com/micheggg"
+    },
+    {
+      "position": "Vice President",
+      "name": "Son Le",
+      "link": "https://www.facebook.com/profile.php?id=100008034821444"
+    },
+    {
+      "position": "Secretary",
+      "name": "Annie Nguyen",
+      "link": "https://www.facebook.com/annie.nguyen.5682944"
+    },
+    {
+      "position": "Treasurer",
+      "name": "Fernanda Amezcua",
+      "link": "https://www.facebook.com/fernanda.amezcua.752"
+    },
+    {
+      "position": "Project Chair",
+      "name": "Hakmat Popal",
+      "link": "https://www.facebook.com/hakmat.popal"
+    }
+ ],
+ "announcements": [
+   {
+     "title": "Meetings",
+     "description": "CSF meetings take place on the first Friday of each month in the South Gym during lunchtime. Meetings are always mandatory."
+   }
+ ],
+  "links": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/groups/1905737569469858/"
+    }
+  ]
+}

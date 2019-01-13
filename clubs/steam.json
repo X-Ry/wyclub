@@ -1,0 +1,28 @@
+{
+  "name": "STEAM",
+  "imgsrc": "steam.png",
+  "description": "Welcome to Rancho Alamitos High School's club of science, technology, engineering, arts, and mathematics!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Jessica Allen",
+      "link": "https://www.facebook.com/profile.php?id=100010691408235"
+    },
+    {
+      "position": "Treasurer",
+      "name": "Jason Dang"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "STEAM meetings take place on Tuesdays in Mrs. Perry's room during lunchtime."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": "https://www.facebook.com/groups/1408650302522571/"
+    }
+  ]
+}
