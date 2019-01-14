@@ -64,7 +64,7 @@
 .blog-card .details .author:before {
   font-family: FontAwesome;
   margin-right: 10px;
-  content: "";
+  content: "";
 }
 .blog-card .details .date:before {
   font-family: FontAwesome;
@@ -97,10 +97,10 @@
   font-size: 1.7rem;
 }
 .blog-card .description h2 {
-  font-size: 1rem;
+  font-size: 1.4rem;
   font-weight:bold;
   color: #2b2828;
-  margin-top: 2px;
+  margin-top: 1px;
 }
 .blog-card .description .read-more {
   text-align: right;
