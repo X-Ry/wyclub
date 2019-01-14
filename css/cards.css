@@ -24,7 +24,7 @@
 .blog-card .meta {
   position: relative;
   z-index: 0;
-  height: 200px;
+  height: 300px;
 }
 .blog-card .photo {
   position: absolute;
@@ -159,7 +159,7 @@
     transform: skewX(-3deg);
     content: "";
     background: #fff;
-    width: 30px;
+    width: 45px;
     position: absolute;
     left: -10px;
     top: 0;
