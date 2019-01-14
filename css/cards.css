@@ -19,7 +19,7 @@
   color: #db5b20;
 }
 .blog-card:hover .photo {
-  transform: scale(1.3) rotate(3deg);
+  transform: scale(1.3);
 }
 .blog-card .meta {
   position: relative;
