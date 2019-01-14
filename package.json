@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaqcoders/rahsclubs.git"
+    "url": "git+https://github.com/x-ry/wyclub.git"
   },
   "keywords": [
     "club",
@@ -20,10 +20,10 @@
     "high",
     "json"
   ],
-  "author": "Vaqcoders",
+  "author": "X-ry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vaqcoders/rahsclubs/issues"
+    "url": "https://github.com/x-ry/wyclub/issues"
   },
   "homepage": "https://github.com/vaqcoders/rahsclubs#readme",
   "dependencies": {}
