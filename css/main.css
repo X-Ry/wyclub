@@ -128,13 +128,13 @@ footer {
 	position: absolute;
 	width: 602px;
 	z-index: 999;
-	text-align: center;
+	text-align: left;
 } #school_logo_header h1 a, #school_logo_header h1 a:visited, #school_logo_header h1 a:link, #school_logo_header h1 a:active {
 	display: block;
 	font: 44px/1 'averia', serif;
 	color: #ffffff;
 	height: 101px;
-	width: 302px;
+	width: 402px;
 	text-decoration: none;
 	padding: 13px 0 0;
 	text-transform: none;
