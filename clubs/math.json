@@ -1,0 +1,27 @@
+{
+  "name": "Math",
+  "imgsrc": "mathteam.png",
+  "description": "Welcome to Whitney Young Math Team!",
+  "officers": [
+    {
+      "position": "Advisor",
+      "name": "Julienne Aug"
+    },
+    {
+      "position": "Advisor",
+      "name": ""
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Meetings take place biweekly in room 206 during lunchtime."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": "https://www.facebook.com/groups/247802082552047/"
+    }
+  ]
+}
