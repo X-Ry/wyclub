@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/x-ry/wyclub.git"
+    "url": "git+https://github.com/X-Ry/wyclub.git"
   },
   "keywords": [
     "club",
@@ -23,8 +23,8 @@
   "author": "X-ry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/x-ry/wyclub/issues"
+    "url": "https://github.com/X-Ry/wyclub/issues"
   },
-  "homepage": "https://github.com/x-Ry/wyclub#readme",
+  "homepage": "https://github.com/X-Ry/wyclub#readme",
   "dependencies": {}
 }
