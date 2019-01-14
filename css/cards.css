@@ -132,11 +132,11 @@
 .blog-card p:first-of-type:before {
   content: "";
   position: absolute;
-  height: 5px;
-  background: #5ad67d;
-  width: 45px;
+  height: 2px;
+  background: #ef5c07;
+  width: 15px;
   top: -0.75rem;
-  border-radius: 3px;
+  border-radius: 1px;
 }
 .blog-card:hover .details {
   left: 0%;
