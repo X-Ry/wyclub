@@ -131,12 +131,12 @@ footer {
 	text-align: center;
 } #school_logo_header h1 a, #school_logo_header h1 a:visited, #school_logo_header h1 a:link, #school_logo_header h1 a:active {
 	display: block;
-	font: 34px/1 'averia', serif;
-	color: #283b04;
+	font: 44px/1 'averia', serif;
+	color: #ffffff;
 	height: 101px;
 	width: 302px;
 	text-decoration: none;
-	padding: 23px 0 0;
+	padding: 13px 0 0;
 	text-transform: none;
 } #school_logo_header h1 a span {
 	font-size: 24px;
