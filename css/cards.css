@@ -97,16 +97,16 @@
   font-size: 1.7rem;
 }
 .blog-card .description h2 {
-  font-size: 0.7rem;
+  font-size: 1rem;
   font-weight: 200;
   color: #2b2828;
-  margin-top: 1px;
+  margin-top: 3px;
 }
 .blog-card .description .read-more {
   text-align: right;
 }
 .blog-card .description .read-more a {
-  color: #5ad67d;
+  color:#ed6212;
   display: inline-block;
   position: relative;
 }
