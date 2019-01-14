@@ -1,32 +1,32 @@
 {
-  "name": "appinventor",
+  "name": "Appinventor",
   "imgsrc": "appinventor.png",
   "description": "Welcome to Whitney Young App Inventor Club!",
   "officers": [
     {
       "position": "President",
-      "name": "Ryan Newkirk",
-      "link": "https://www.facebook.com/micheggg"
+      "name": "Ryan Newkirk"
+
     },
     {
       "position": "Vice President",
-      "name": "John Wu",
-      "link": "https://www.facebook.com/profile.php?id=100008034821444"
+      "name": "John Wu"
+     
     },
     {
       "position": "Advisor",
-      "name": "Dr. Mo",
-      "link": "https://www.facebook.com/annie.nguyen.5682944"
+      "name": "Dr. Mo"
+     
     },
     {
       "position": "Treasurer",
-      "name": "Fernanda Amezcua",
-      "link": "https://www.facebook.com/fernanda.amezcua.752"
+      "name": ""
+      
     },
     {
       "position": "Project Chair",
-      "name": "Hakmat Popal",
-      "link": "https://www.facebook.com/hakmat.popal"
+      "name": ""
+  
     }
  ],
  "announcements": [
@@ -37,8 +37,8 @@
  ],
   "links": [
     {
-      "title": "Facebook",
-      "link": "https://www.facebook.com/groups/1905737569469858/"
+      "title": "Team Website",
+      "link": "https://sites.google.com/cps.edu/wyappinventor/home"
     }
   ]
 }
