@@ -90,7 +90,7 @@
 }
 .blog-card .description h1,
 .blog-card .description h2 {
-  font-family: Poppins, sans-serif;
+    font-family: "Times New Roman", Times, serif;
 }
 .blog-card .description h1 {
   margin: 0;
