@@ -13,6 +13,11 @@
       "title": "Meetings",
       "description": "Badminton Club meetings every Friday after school at Gym."
     }
-  ]
-
+ ],
+   "links": [
+    {
+      "title": "Facebook Page",
+      "link": "https://www.facebook.com/groups/247802082552047/"
+    }
+ ]
 }
