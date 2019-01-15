@@ -1,23 +1,23 @@
 {
   "name": "Debate",
-  "imgsrc": "vsa.png",
-  "description": "Welcome to Rancho Alamitos High School's club of Vietnamese Student Association!",
+  "imgsrc": "debate.png",
+  "description": "Welcome to Whitney Young Debate Team!",
   "officers": [
     {
       "position": "President",
-      "name": "Andrew Bui"
+      "name": " "
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "VSA meetings take place on Fridays in room 306 during lunchtime."
+      "description": "Debate team meetings take place on Fridays in room 203."
     }
   ],
   "links": [
     {
-      "title": "Facebook Page",
-      "link": "https://m.facebook.com/groups/1535977449771694"
+      "title": " ",
+      "link": " "
     }
   ]
 }
