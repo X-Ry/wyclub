@@ -1,0 +1,28 @@
+{
+  "name": "Latin Dance",
+  "imgsrc": "club.jpg",
+  "description": "Practice and learn various Latin Dances through small parties and classes after school with peers. This includes Bachata Salsa Merengue Cumbia and many more... Latin Dance club increases awareness about Latino culture in and outside of WY while giving students a place to de-stress and have fun. .",
+  "officers": [
+    {
+      "position": "Team Lead",
+      "name": "avaldes2@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Yeyoung Ha"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Wednesdays.Room Green House."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": ""
+    }
+  ]
+}
