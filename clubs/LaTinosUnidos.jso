@@ -1,0 +1,28 @@
+{
+  "name": "Latinos Unidos",
+  "imgsrc": "club.jpg",
+  "description": "Latin/Hispanic Culture Club- helps give the student body an opportunity to learn about and interact with students of a different culture.",
+  "officers": [
+    {
+      "position": "Team Lead",
+      "name": "mgarcia228@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mrs.Narvaez"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Tuesday 3:20 pm.Room 105."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": ""
+    }
+  ]
+}
