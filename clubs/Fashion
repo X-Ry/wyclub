@@ -1,0 +1,28 @@
+{
+  "name": "Fashion Club",
+  "imgsrc": "club.jpg",
+  "description": "Fasion Club! Allow students to design clothes on their own time.",
+  "officers": [
+    {
+      "position": "Team Lead",
+      "name": "cjlynch@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Sheila Lent"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Once a month on Wednesdays from 3:15 to 4pm.Room 205."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": ""
+    }
+  ]
+}
