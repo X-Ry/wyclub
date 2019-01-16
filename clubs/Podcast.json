@@ -1,0 +1,28 @@
+{
+  "name": "Podcast Club",
+  "imgsrc": "club.jpg",
+  "description": "Welcome, please join us to write and record our own podcasts.",
+  "officers": [
+    {
+      "position": "Club Lead",
+      "name": "adocon@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mrs. Leki"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Tuesday 3:30pm.Room 309."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": ""
+    }
+  ]
+}
