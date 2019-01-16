@@ -9,12 +9,7 @@ class Club {
   containsKeyword(keyword) {
     return this.data.name.toLowerCase().includes(keyword) ||
       this.data.description.toLowerCase().includes(keyword) ||
-<<<<<<< HEAD
       this.data.announcements.some(announcements=>announcements.description.toLowerCase().includes(keyword))||
-
-=======
-       this.data.announcements.some(announcements=>announcements.description.toLowerCase().includes(keyword))||
->>>>>>> 834a310954d685039aeaf7f34f2bb71a0a76c4de
       this.data.officers.some(officer => officer.name.toLowerCase().includes(keyword));
   }
 
