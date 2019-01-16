@@ -9,6 +9,8 @@ class Club {
   containsKeyword(keyword) {
     return this.data.name.toLowerCase().includes(keyword) ||
       this.data.description.toLowerCase().includes(keyword) ||
+      this.data.announcements.some(announcements=>announcements.description.toLowerCase().includes(keyword))||
+
       this.data.officers.some(officer => officer.name.toLowerCase().includes(keyword));
   }
 
@@ -82,20 +84,30 @@ class Club {
     const announcements = this.data.announcements.reduce((div, cur) => {
       const h2 = document.createElement("h2");
       const p = document.createElement("p");
+      //const p2=document.createElement("p");
 
       h2.innerText = cur.title;
       p.innerText = cur.description;
+     //p.innerText =data.description;
 
       div.appendChild(h2);
       div.appendChild(p);
+      
 
       return div;
     }, document.createElement("div"));
     announcements.className = "description";
 
+
+
+
+
+    //announcements.innerText=this.data.description;
+
     description.appendChild(h1);
     description.appendChild(p);
     description.appendChild(announcements);
+
 
     meta.appendChild(photo);
     meta.appendChild(details);
