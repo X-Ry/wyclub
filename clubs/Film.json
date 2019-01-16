@@ -1,0 +1,28 @@
+{
+  "name": "Film Club",
+  "imgsrc": "club.jpg",
+  "description": "We will be gaining experience in film production through our writing shooting and editing our own short films.",
+  "officers": [
+    {
+      "position": "Team Lead",
+      "name": "adocon@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Florian Palucci"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Wednesday 3:30pm.Room 178."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": ""
+    }
+  ]
+}
