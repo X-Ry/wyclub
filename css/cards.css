@@ -62,17 +62,17 @@
   display: inline-block;
 }
 .blog-card .details .author:before {
-  font-family: FontAwesome;
+  font-family: "Times New Roman", Times, serif;
   margin-right: 10px;
   content: "";
 }
 .blog-card .details .date:before {
-  font-family: FontAwesome;
+ font-family: "Times New Roman", Times, serif;
   margin-right: 10px;
   content: "";
 }
 .blog-card .details .tags ul:before {
-  font-family: FontAwesome;
+ font-family: "Times New Roman", Times, serif;
   content: "";
   margin-right: 10px;
 }
