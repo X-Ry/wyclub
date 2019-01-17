@@ -49,7 +49,7 @@
   left: -100%;
   margin: auto;
   transition: left 0.2s;
-  background: rgba(253,254,254,0);
+  background: rgba(253,254,254,0.4);
   color:#1A5276;
   padding: 10px;
   width: 100%;
