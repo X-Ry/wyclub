@@ -112,7 +112,7 @@
 }
 .blog-card .description .read-more a:after {
   content: "";
-  font-family: FontAwesome;
+ font-family: "Times New Roman", Times, serif;
   margin-left: -10px;
   opacity: 0;
   vertical-align: middle;
