@@ -1,0 +1,28 @@
+{
+  "name": "AC_Running",
+  "imgsrc": "running.png",
+  "description": "Welcome to Whitney Young Academic Center Running Club! Athletic extracurricular for AC students - all sports and abilities welcome. Build camaraderie among ac students develop athletic skills and character.",
+  "officers": [
+    {
+      "position": "President",
+      "name": " jlavallee@cps.edu "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Edwards"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "3:30-5 on Monday Wednesday Thursday from December through March at Gold House Pool Hallway."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": ""
+    }
+  ]
+}

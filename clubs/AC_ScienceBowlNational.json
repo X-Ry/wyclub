@@ -1,0 +1,28 @@
+{
+  "name": "AC_ScienceBowl2",
+  "imgsrc": "science.png",
+  "description": "Students meet to practice for the Middle School Science Bowl competition!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "agoel@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Peterson"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Meetings take place Wednesday and Friday from 3:25 to 5 after school in room 330."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Robotics",
+  "imgsrc": "robotics.PNG",
+  "description": "Welcome to Whitney Young Robotics Club!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Nicolas Murolo"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Andrew Mauer-Oats"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Robotics meetings take place on Monday and Wensday in room 109."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": ""
+    }
+  ]
+}

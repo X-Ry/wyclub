@@ -1,0 +1,28 @@
+{
+  "name": "AC_ScienceBowl",
+  "imgsrc": "science.png",
+  "description": "This middle school club is for participating in and practicing for the Science Bowl national competition!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "agoel@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Kayley Hennessy"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Wednesdays 3:30-4:30 in room 275."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

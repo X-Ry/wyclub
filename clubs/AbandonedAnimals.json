@@ -1,0 +1,28 @@
+{
+  "name": "AbandonedAnimals",
+  "imgsrc": "puppy.jpg",
+  "description": "We help raise awareness for underprivileged animals and fundraise for shelters around the city.",
+  "officers": [
+    {
+      "position": "Club Lead",
+      "name": "cvaccaro4@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Katz"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Mondays at 3:30 in room 321."
+    }
+  ],
+  "links": [
+    {
+      "title": "Facebook Page",
+      "link": ""
+    }
+  ]
+}
