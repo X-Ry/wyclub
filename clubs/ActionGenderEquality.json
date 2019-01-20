@@ -1,27 +1,27 @@
 {
-  "name": "Robotics",
-  "imgsrc": "robotics.PNG",
-  "description": "Welcome to Whitney Young Robotics Club!",
+  "name": "ActionGenderEquality",
+  "imgsrc": "EquityAction.jpg",
+  "description": "Acting for Gender Equality Club promotes  intersectional feminism through discussions speakers and service projects. We aim to create a more educated and accepting community!",
   "officers": [
     {
       "position": "President",
-      "name": "Nicolas Murolo"
+      "name": "k.fani10@gmail.com"
     
     },
     {
       "position": "Advisor",
-      "name": "Andrew Mauer-Oats"
+      "name": "Mr. Tavolacci"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Robotics meetings take place on Monday and Wensday in room 109."
+      "description": "Club meetings take place on Tuesdays at 3:30 in room 309."
     }
   ],
   "links": [
     {
-      "title": "Facebook Page",
+      "title": "Team Page",
       "link": ""
     }
   ]

@@ -1,27 +1,27 @@
 {
-  "name": "Robotics",
-  "imgsrc": "robotics.PNG",
+  "name": "AfricanAmericanCulture",
+  "imgsrc": "cluture.jpg",
   "description": "Welcome to Whitney Young Robotics Club!",
   "officers": [
     {
       "position": "President",
-      "name": "Nicolas Murolo"
+      "name": "ddharris22@cps.com"
     
     },
     {
       "position": "Advisor",
-      "name": "Andrew Mauer-Oats"
+      "name": "Alayna Washington"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Robotics meetings take place on Monday and Wensday in room 109."
+      "description": "Club meetings take place on Wensday in room 348."
     }
   ],
   "links": [
     {
-      "title": "Facebook Page",
+      "title": "Team Page",
       "link": ""
     }
   ]
