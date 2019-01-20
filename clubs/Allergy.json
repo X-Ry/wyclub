@@ -1,27 +1,27 @@
 {
-  "name": "Robotics",
-  "imgsrc": "robotics.PNG",
-  "description": "Welcome to Whitney Young Robotics Club!",
+  "name": "Allergy Club",
+  "imgsrc": "club.jpg",
+  "description": "This club will raise awareness about various allergies in our environment and discuss how to make lives easier and more safe for people with these afflictions!",
   "officers": [
     {
       "position": "President",
-      "name": "Nicolas Murolo"
+      "name": "dshood2@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Andrew Mauer-Oats"
+      "name": "Stuart Abram"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Robotics meetings take place on Monday and Wensday in room 109."
+      "description": "Club meetings take place Once a month 3:30 - 4:30 in room 277."
     }
   ],
   "links": [
     {
-      "title": "Facebook Page",
+      "title": "Team Page",
       "link": ""
     }
   ]

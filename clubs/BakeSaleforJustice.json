@@ -1,0 +1,28 @@
+{
+  "name": "Bake Sale for Justice Club",
+  "imgsrc": "bakeforjustice.jpg",
+  "description": "Bake Sale for Justice is a bi-monthly bake sale that we put on to raise money for different social justice organizations. In this club we will learn about the organizations we serve and how we can give back to our community!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "tlkaplan@cps.edu  "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Erin Franklin"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesdays 3:30-4:30 in room 218."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
