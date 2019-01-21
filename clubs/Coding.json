@@ -1,22 +1,22 @@
 {
-  "name": "ASL Club",
-  "imgsrc": "asl.jpg",
-  "description": "ASL club provides an opportunity for students to learn and use American Sign Language and communicate with students who are Deaf or Hard-of-Hearing!",
+  "name": "Coding Club",
+  "imgsrc": "coding.jpg",
+  "description": "Learn to solve competition computer science problems. Prepare for USA Computing Olympiad. We will bring fame to Whitney Young by doing well in competitions and our students will learn lots more too.",
   "officers": [
     {
       "position": "President",
-      "name": "smunoz24@cps.edu"
+      "name": "nskalghatgi@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Bret Roberts"
+      "name": "Andrew Mauer-Oats"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesdays at 3:30 in room 131."
+      "description": "Club meetings take place Monday 3:30 in room 109."
     }
   ],
   "links": [
