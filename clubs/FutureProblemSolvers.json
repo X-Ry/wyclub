@@ -1,0 +1,28 @@
+{
+  "name": "Future Problem Solvers",
+  "imgsrc": "future.jpg",
+  "description": "Students work to solve real world problems together and ultimately compete against other schools at the regional state and national levels.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "leblaustein@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Edward Dziedzic"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursday after school in room 136."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

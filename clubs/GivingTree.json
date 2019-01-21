@@ -1,0 +1,28 @@
+{
+  "name": "Giving Tree",
+  "imgsrc": "givingtree.png",
+  "description": "The Giving Tree is a fundraising and service club that focuses on raising money for a cause each quarter. We are bringing attention to smaller charities all throughout  Chicago. This will benefit the WY community by giving a chance to our students to be active members in their community.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "nferenberg@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Alva Tellez"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place once every other week on Tuesdays. in room 312."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

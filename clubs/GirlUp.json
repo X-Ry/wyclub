@@ -1,0 +1,28 @@
+{
+  "name": "Girl Up",
+  "imgsrc": "girlup_logo.jpg",
+  "description": "Girl Up is a campaign of the United Nations Foundation that seeks to empower girls around the world through leadership involvement in STEM activism fundraising and more. It also works to reach and aid girls in the places that are most difficult to be a girl. As a club we will advocate fundraise and volunteer with the aim of achieving gender equality.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "cewalker4@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Boyle"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesdays at 7:30 am (before school) in room 200."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

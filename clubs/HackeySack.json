@@ -1,0 +1,28 @@
+{
+  "name": "Hacky Sack Club",
+  "imgsrc": "HackeySack.jpg",
+  "description": "Students get together to play a relaxing and stress free game of hackey sack. Music is played softly and kids get together in teamwork.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "constantinestake@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. pasowicz"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Mondays 4-6 in room 300."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Girls Who Code",
+  "imgsrc": "club.jpg",
+  "description": "This club allows women and girls to break the gender barrier in technology giving girls a safe space to build their skills network and grow together.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "iokoli@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Stuart Abram"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Mondays 3:30 - 5:00 in room 277."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
