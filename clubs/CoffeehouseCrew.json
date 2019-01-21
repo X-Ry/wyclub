@@ -1,22 +1,22 @@
 {
-  "name": "ASL Club",
-  "imgsrc": "asl.jpg",
-  "description": "ASL club provides an opportunity for students to learn and use American Sign Language and communicate with students who are Deaf or Hard-of-Hearing!",
+  "name": "Coffeehouse Crew",
+  "imgsrc": "coffeehousejan19-8.jpg",
+  "description": "Coffeehouse Crew runs Whitney Young's monthly open mic showcasing student musicians poets and performers of all types. We promote inclusivity and are a safe and encouraging environment for students to get used to being in front of an audience. Crew members can learn about stage setup and management lighting and sound management marketing social media photography and how to make coffee!",
   "officers": [
     {
       "position": "President",
-      "name": "smunoz24@cps.edu"
+      "name": "dplys@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Bret Roberts"
+      "name": "Mr Peek"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesdays at 3:30 in room 131."
+      "description": "Club meetings take place once a month usually on the last Friday of the month from 3:30 to 6:30. in room 188."
     }
   ],
   "links": [
