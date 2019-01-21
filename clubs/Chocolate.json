@@ -1,22 +1,22 @@
 {
-  "name": "ASL Club",
-  "imgsrc": "asl.jpg",
-  "description": "ASL club provides an opportunity for students to learn and use American Sign Language and communicate with students who are Deaf or Hard-of-Hearing!",
+  "name": "Chocolate Club",
+  "imgsrc": "Chocolate.png",
+  "description": "Chocolate Club is exactly like it sounds it's a club where students of different grade levels and friend groups can come together through their combined love of chocolate. With each meeting we try a new flavor of chocolate and compete in a Kahoot (for example: if we got our chocolate from Jamaica the Kahoot is all facts on Jamaica). This club provides a space for new for friendships to form and already developed ones to evolve!",
   "officers": [
     {
       "position": "President",
-      "name": "smunoz24@cps.edu"
+      "name": "esswitall@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Bret Roberts"
+      "name": "Mrs. Smith"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesdays at 3:30 in room 131."
+      "description": "Club meetings take place Every other Wednesday 3:30-4:00 in room 319."
     }
   ],
   "links": [
