@@ -1,0 +1,28 @@
+{
+  "name": "Cosplay Club",
+  "imgsrc": "cosplay.jpg",
+  "description": "Cosplay club is a club for nerds of all kinds to learn about the art of costume-making. Members will not only be taught creative skills like sewing prop construction and makeup but also how to attend comic cons and spread their creations on social media. Cosplay club is intended to be a creative space for students to make projects that they are proud of and an area for students on the geekier side of life to meet new people and bond over their shared love of not only art but characters they admire. Cosplay club will (hopefully) host a costume contest on halloween as well as coordinate group outings and photoshoots with students!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "msmith197@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Florian Palucci"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Mondays 3:30 at room 278"
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

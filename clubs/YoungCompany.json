@@ -1,0 +1,28 @@
+{
+  "name": "Young Company",
+  "imgsrc": "young.jpg",
+  "description": "The Young Company is a student-led theatre company open to all Whitney Young students. We produce two drama productions each year. Whether you like to perform onstage or get involved behind the scenes The Young Company is a place for talented and dedicated students to contribute to the design and performance of plays and musicals for the Whitney Young community.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "ajchumrley@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Winkler"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place M-F 3:30-6:30 in Theatre."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

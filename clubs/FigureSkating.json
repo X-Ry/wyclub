@@ -1,22 +1,22 @@
 {
-  "name": "Elite Cubing",
-  "imgsrc": "Elite.jpg",
-  "description": "The club will work with advanced puzzles.  This will help students to think outside the box.",
+  "name": "Figure Skating Club",
+  "imgsrc": "figureSkating.jpg",
+  "description": "In this club we will be able to go skating at least once a month at the nearby rink MB Ice Arena. This benefits the WY school community by giving the students an opportunity to learn how to skate from the leaders of the club and giving them a chance to have fun and relieve stress.",
   "officers": [
     {
       "position": "President",
-      "name": "ewalpizar@cps.edu"
+      "name": "mli7@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Susan Gustavson"
+      "name": "Andrew Mauer-Oats"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Tuesdays and Wednesday 3:15 in room 295."
+      "description": "Club meetings take place Tuesdays and Wednesday 3:30 in room 109."
     }
   ],
   "links": [

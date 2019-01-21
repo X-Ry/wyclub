@@ -1,22 +1,22 @@
 {
-  "name": "ASL Club",
-  "imgsrc": "asl.jpg",
-  "description": "ASL club provides an opportunity for students to learn and use American Sign Language and communicate with students who are Deaf or Hard-of-Hearing!",
+  "name": "Best Buddies",
+  "imgsrc": "BestBuddies.jpg",
+  "description": "Best Buddies promotes inclusion and friendship among students with and without intellectual disabilities. Members are paired in a one to one friendship with a student with an intellectual disability. They will have opportunities to hang out with them bi-weekly during structured meetings and will be expected to spend time with them outside of meeting times. The club promotes inclusion of and respect for students with disabilities in the WY community.",
   "officers": [
     {
       "position": "President",
-      "name": "smunoz24@cps.edu"
+      "name": "sdurojaiye@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Bret Roberts"
+      "name": "Rebecca Folkerts"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesdays at 3:30 in room 131."
+      "description": "Club meetings take place Wednesdays Long Division in room Gym C."
     }
   ],
   "links": [

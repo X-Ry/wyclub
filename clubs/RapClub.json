@@ -1,0 +1,28 @@
+{
+  "name": "Rap Club",
+  "imgsrc": "rap.jpg",
+  "description": "The club's goal is to allow student a place to express themselves through the Hop Hip art form. It's hope to help students relax and alleviate stress by providing a warm environment where people feel the belong. It can also help student get constructive criticism on their craft.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "ctbradley1@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Spillman"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place every Monday at 3:30 p.m in room 302."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

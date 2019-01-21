@@ -1,0 +1,28 @@
+{
+  "name": "Issa Vibe Club",
+  "imgsrc": "IssaVibe.jpg",
+  "description": "Issa Vibe is a club that provides students with a safe environment to discuss and impact mental health related topics. It also provides healthy coping mechanisms that are often not taught.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "rborden@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Alva Tellez"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place every other Friday 3:30 after school in room 312."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

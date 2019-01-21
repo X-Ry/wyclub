@@ -1,0 +1,28 @@
+{
+  "name": "SWENext",
+  "imgsrc": "SWENext.jpg",
+  "description": "The goal for this club is to expose our peers specifically women (although anyone can participate) to engineering and encourage them to pursue it. We would discuss different possible career paths provide members with an opportunity to talk to active engineers in our community and to participate in hands-on activities relating to different types of engineering. Being exposed to engineering early on in high school will allow students to get to know the field and better prepare them for their future.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "jquinones11@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mrs. Trine"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Every other Monday from 3:30 - 4:15 in room 327."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

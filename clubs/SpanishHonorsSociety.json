@@ -1,0 +1,28 @@
+{
+  "name": "Spanish Honors Society Club",
+  "imgsrc": "spanishHS.png",
+  "description": "Spanish Honor Society club seeks to promote a continuity of interest in Hispanic studies and to recognize students’ high achievement in Spanish. It provides students with service opportunities eligibility for awards and scholarships and much more. Through participation in events at the social service agency “Casa Central” and club fundraisers members will gain an understanding of the challenges faced by the Hispanic community. The club will allow students to find a place where they can identify with their peers on a cultural level as they learn about the importance of cultural awareness. All students who are interested in becoming Spanish Honor Society members must be enrolled in a Spanish course for the 2018-2019 academic year.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "nperez37@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Alva Tellez"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Mondays 3:20pm in room 312."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

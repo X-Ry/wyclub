@@ -1,0 +1,28 @@
+{
+  "name": "Investment Club",
+  "imgsrc": "investment.png",
+  "description": "Our mission is to educate and provide a platform for youth that may be interested in becoming financially independent. We will discuss finance economics and markets over a variety of backgrounds as well as apply financial knowledge to our real lives.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Apuga2@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Uhl-Alba"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Monday after school in room 110."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

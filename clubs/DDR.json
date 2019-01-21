@@ -1,0 +1,28 @@
+{
+  "name": "DDR Club",
+  "imgsrc": "ddr.jpg",
+  "description": "Dance Dance Revolution club is a place for students to relax and play DDR with friends. DDR is a way to be active while playing rhythm games.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "dplys@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms Simon"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Fridays from 3:30 to 4:30 in Ms. Simon's room."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Photo Club",
+  "imgsrc": "photo.jpg",
+  "description": "Photo club is meant to act as a hub for students interested in any and all aspects of photography i.e. taking and staging photos modeling and editing. We rotate throughout these activities every week taking photos around the school and visiting various locations throughout the city which are determined by majority vote. Every week we alternate between taking photos and learning new techniques/practices. We also throw occasional parties for club members to sit back and relax. Overall the club improves Whitney Young's photography community and acts as a way for students to meet new people through their mutual interests.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "jrbrown15@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Florian Palucci"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesday after schoolin room 178."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

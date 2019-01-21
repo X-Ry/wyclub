@@ -1,0 +1,28 @@
+{
+  "name": "Physics Team",
+  "imgsrc": "physics.png",
+  "description": "Physics Team participates in multiple physics competitions throughout the year. We provide a chance for higher level physics challenges and learning than is available in class.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "jsgerenraich@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ryan Kruidenier"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Monday/Tuesday after school in room 344."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

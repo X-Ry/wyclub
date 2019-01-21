@@ -1,0 +1,28 @@
+{
+  "name": "National Junior Honor Society",
+  "imgsrc": "NJHS.jpg",
+  "description": "The purpose of the National Junior Honor Society is to foster and promote better citizenship, character, leadership, scholarship, and service. Students work together on service projects and promote the stated pillars throughout the school.Annual selective application. Invitation only for 8th and 9th graders with a GPA of 3.75 or higher. Must demonstrate pillars of scholarship, leadership, citizenship, and character. 20 hours of service preferred.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Sabrina Sawyer"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Angelina Myers"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

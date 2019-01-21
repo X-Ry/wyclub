@@ -1,28 +1,27 @@
 {
-  "name": "Elite Cubing",
-  "imgsrc": "Elite.jpg",
-  "description": "The club will work with advanced puzzles.  This will help students to think outside the box.",
+  "name": "Get Good",
+  "imgsrc": "getgood.jpg",
+  "description": " An educational outreach platform whose primary purpose is to help elementary school children learn about topics that might not receive as much emphasis in their traditional school environment: time management personal health etc.",
   "officers": [
     {
       "position": "President",
-      "name": "ewalpizar@cps.edu"
-    
+      "name": "mjgoshko@cps.edu"
     },
     {
       "position": "Advisor",
-      "name": "Susan Gustavson"
+      "name": "Bridget Nelson"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Tuesdays and Wednesday 3:15 in room 295."
+      "description": "Club meetings take place Tuesday 3:30 in room 310."
     }
   ],
   "links": [
     {
       "title": "Team Page",
-      "link": ""
+      "link": "    "
     }
   ]
 }

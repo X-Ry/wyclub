@@ -1,0 +1,28 @@
+{
+  "name": "National Honor Society for Dance Arts",
+  "imgsrc": "nhsda.jpg",
+  "description": "The National Honor Society for Dance Arts™ (NHSDA) is a program of the National Dance Education Organization created to recognize outstanding artistic merit leadership and academic achievement in students studying dance in public and private schools in K-12 education dance studios cultural/community centers performing arts organizations and post-secondary education. We will offer the Secondary Program for grades 9-12.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "akszydlowski@cps.edu "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Jeanette Gordon"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesday after school at Dance Studio."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

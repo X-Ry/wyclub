@@ -1,0 +1,28 @@
+{
+  "name": "Students Working Against Prisons Club",
+  "imgsrc": "prison.jpg",
+  "description": "SWAP seeks to educate the school community on issues of mass incarceration and empower students to make a difference.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "k.fani10@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Alayna Washington"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place every other Wednesday at 3:30 in room 348."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Sticker Club",
+  "imgsrc": "Sticker.jpg",
+  "description": "Sticker Club provides a swanky atmosphere for sticker lovers and curators to meet and design cool stickers and/or share their creations with other members. Sticker designs may be sold at various school functions with the proceeds benefiting Whitney Young.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "cagay@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Janani Nathan"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Every other Wednesday 3:30-4:30pm in room 181."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Video Game Club",
+  "imgsrc": "game.jpg",
+  "description": "Giving our students a safe place to game and relax on Fridays after school compete with each other and also have friendly tournaments against other schools in the city.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "pjlewis@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Stuart Abram"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Fridays 3:30 - 5:00 in room 277."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

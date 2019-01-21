@@ -1,0 +1,28 @@
+{
+  "name": "Spikeball Club",
+  "imgsrc": "spikeball.jpg",
+  "description": "Every monday students will meet up to play Spikeball with eachother. This benefits Whitney Young students by creating a fun scoial environment in which students can interact with eachother.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "benhwerner@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Pasowicz"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Mondays 4:00-5:00 at Gold House."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

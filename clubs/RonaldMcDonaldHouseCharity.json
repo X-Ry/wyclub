@@ -1,0 +1,28 @@
+{
+  "name": "Ronald McDonald House Charity Club",
+  "imgsrc": "RonaldMcDonald.jpg",
+  "description": "A club dedicated to fundraising for the Ronald McDonald House Charity. It will allow for WY to be a part of helping other families when they need it.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "malmond@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Gustavson"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Friday after school in room 295."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

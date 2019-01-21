@@ -1,0 +1,28 @@
+{
+  "name": "UNICEF Club",
+  "imgsrc": "UNICEF.png",
+  "description": "This is a club that raises funds for mothers and children in developing countries and raises awareness about global issues.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "dzelen@cps.edu  "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Tyrpin"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Fridays: 3:15-4:30 after school in room 119."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

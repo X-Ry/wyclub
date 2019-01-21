@@ -1,0 +1,28 @@
+{
+  "name": "WY Model United Nations",
+  "imgsrc": "ModelUN.jpg",
+  "description": "Model United Nations is a club that participates in educational simulations of the United Nations discussing international issues from various perspectives. Model UN is a globally recognized activity with students from all over the world participating in the same conferences as us. By participating students learn about complex world issues that are applicable to the real world and improve their speaking and research skills.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "agcavallo@cps.edu "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Neil Tejano "
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursdays from 3:30-4:30pm in room 208."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

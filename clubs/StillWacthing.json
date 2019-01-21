@@ -1,0 +1,28 @@
+{
+  "name": "Still Wacthing Club",
+  "imgsrc": "club.jpg",
+  "description": "Help students relax and supplements analysis skills.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "sglove@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Alva Tellez"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place every other Thursday after school in room 312 / 305."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

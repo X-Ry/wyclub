@@ -1,0 +1,28 @@
+{
+  "name": "Pride Club",
+  "imgsrc": "pride.png",
+  "description": "Pride Club is Whitney Young's center for LGBT+ students and supporting community to meet have discussions learn about lgbt history and activism and make new friends!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "dplys@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Florian Palucci"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursdays from 3:30 to 4:30 in room 178."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Music Production Club",
+  "imgsrc": "music.jpg",
+  "description": "We discuss music production and share tips with the goal of making better music together. It's always a benefit to help students express themselves.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "ttknight@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Mascari"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Friday 3:15-4:15 in room 188."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Whitney Young Think Tank",
+  "imgsrc": "think-tank-pic.png",
+  "description": "The mission of our club is to provide a platform for all students with any and all points of view on a wide variety of topics and ideas.  Our mission is to provide a marketplace of ideas where anybody can contribute to a better understanding of not only each other but the world around them.  We would like to cultivate more respectful coherent cooperative and informed conversations about politics within classrooms at Whitney Young.  We may be reaching out to political clubs at other schools to collaborate on activities this year.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "christopherli2002@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Tyrpin"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesdays and Thursdays until 4:30 in room 119/129."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

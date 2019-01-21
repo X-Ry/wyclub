@@ -1,0 +1,28 @@
+{
+  "name": "Yearbook Club",
+  "imgsrc": "yearbook.jpg",
+  "description": "Yearbook makes the yearbook for Whitney Young.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "wy.yearbook@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Peter Tavolacci"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place everyday 3:30 to 4:30 pm school in room 122."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

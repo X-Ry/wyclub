@@ -1,0 +1,28 @@
+{
+  "name": "Smiles Club",
+  "imgsrc": "smile.jpg",
+  "description": "Smiles Club is a volunteered based club that offers students the ways to earn their service learning hours while helping small organizations with their friends. Our members have told us that it provides a sense of community and family which we believe is something that benefits WY as a whole.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "bpadilla8@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Alva Tellez"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesday after school in Green room ."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

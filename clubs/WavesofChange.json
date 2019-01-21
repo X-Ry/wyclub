@@ -1,0 +1,28 @@
+{
+  "name": "Waves of Change",
+  "imgsrc": "waveOfChange.png",
+  "description": "Raising awareness about Water Issues in our community and globally.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "kdalia@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Stuart Abram"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesdays 3:30 - 4:30 in room 277."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Student Council",
+  "imgsrc": "studentconsole.jpg",
+  "description": "StuCo faciltates and manages several school functions and promotes additional school spirit and activities such as dodgeball.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "glaniewski@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mrs. Gayles"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place T&W @3:30 after school in room 117."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

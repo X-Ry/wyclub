@@ -1,0 +1,28 @@
+{
+  "name": "WY’s Mariachi Los Delfines",
+  "imgsrc": "club.jpg",
+  "description": "This club is for the musical arts of Mariachi run by students of strong Mariachi backgrounds it will help elevate the art of Mariachi in our highschool and teach the history and stories of former Mariachi musicians.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "cehernandez4@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Michael Mascari"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Monday’s at 3:30-4:30  in room 188."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

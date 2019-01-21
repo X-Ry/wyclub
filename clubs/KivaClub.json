@@ -1,0 +1,28 @@
+{
+  "name": "Kiva Club",
+  "imgsrc": "kiva.jpg",
+  "description": "Kiva Club focuses on using the power of microfinancing to improve the lives of people living in poverty across the globe as well as in our own community. Kiva uses fundraising techniques to raise money (which is loaned to applicants). The money is paid back (97% of the time) and can then be used to fund other projects creating a self-sufficient system. Because these payments are not donations the club strives at its core to help people help themselves out of poverty. Some Kiva project examples include: loaning a few thousand dollars to help start a small business in Lesotho a small loan to fund an Lebanese refugee’s higher education or helping a Tajikistani woman pay her husband’s increasing medical bills. Through this club WY students will be able to contribute to society become an informed and active citizen tackle complicated world issues and potentially change lives through microlending. Additionally it encourages us as US residents to appreciate our quality of life.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "klhuang@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Heo"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesdays 3:30pm after school in room 295."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

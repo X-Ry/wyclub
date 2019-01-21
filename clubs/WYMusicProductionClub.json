@@ -1,0 +1,28 @@
+{
+  "name": "WY Music Production Club",
+  "imgsrc": "club.jpg",
+  "description": "Music Production Club is aimed at providing students with an interest in music the materials and platform they need to create and produce songs. This club will be beneficial to the school community by giving students valuable experience in business operations technology and music and through the artistic contributions it will be able to make.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "tpennington@cps.edu "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Barbick"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Mondays; 3:30 - 4:30 in room 198."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

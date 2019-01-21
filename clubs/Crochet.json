@@ -1,0 +1,28 @@
+{
+  "name": "Crochet Club",
+  "imgsrc": "crochet.jpg",
+  "description": "We teach people how to crochet and we will donate our creations in the spring bash and donate to charities.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "sxie2@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Erin Franklin"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursday 3:30-4:30 at room 218"
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

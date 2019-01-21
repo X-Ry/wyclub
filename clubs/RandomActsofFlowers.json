@@ -1,0 +1,28 @@
+{
+  "name": "Random Acts of Flowers",
+  "imgsrc": "randomActsofFlowers.jpg",
+  "description": "Random Acts of Flowers is a nonprofit organization that improves the emotional health and well-being of individuals in health care facilities. Throughout the year we host flower sales bake sales vase drives and organize volunteer work at their facility in Evanston. Our donations are appreciated and used towards maintaining their facilities purchasing materials deliveries and volunteer efforts.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "alozano6@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms Washington"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesday after school in room 348."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

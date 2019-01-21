@@ -1,17 +1,21 @@
 {
   "name": "Debate",
-  "imgsrc": "debate.png",
-  "description": "This is Welcome to Whitney Young Debate Team, Please join us. This is a Test!",
+  "imgsrc": "debate.jpg",
+  "description": "The debate club allows students to become experts in research and critical thinking skills using these skills to compete against other teams nationwide in debate tournaments.",
   "officers": [
     {
       "position": "President",
-      "name": " Wuyun Chen"
+      "name": " dtarasul@cps.edu  "
+    },
+     {
+      "position": "Advisor",
+      "name": " Vita Scott-Harris "
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Debate team meetings take place on Fridays in room 203."
+      "description": "Debate team meetings take place on Tuesdays and Thursdays in Counseling Suite."
     }
   ],
   "links": [

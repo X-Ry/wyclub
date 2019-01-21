@@ -1,0 +1,28 @@
+{
+  "name": "Mock Trial",
+  "imgsrc": "mocktrial.jpg",
+  "description": "Mock Trial is an academic team which prepares high school students with tools to pursue the field of law in a way that many do not get to experience until law school.Students receive one 'mock' case criminal or civil and dissect its entirety to prepare a case. These prepared cases arguments as lawyer and roles as witnesses will then compete against rival schools. Mock trials allow students to practice team research critical and public speaking skills all while introducing them to the world of law!.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "aswain1@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Claudia Narvaez"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesdays 3:30pm in room 106."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

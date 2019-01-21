@@ -1,0 +1,28 @@
+{
+  "name": "Jewish Club",
+  "imgsrc": "jewish.jpg",
+  "description": "This club is a fun way to teach students about the Jewish culture. We eat snacks play jewish related games and talk about the meanings of jewish holidays.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "szerman31@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Quinn"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place every other Tuesday after school in room 297."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

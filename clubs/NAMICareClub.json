@@ -1,0 +1,28 @@
+{
+  "name": "NAMI Care Club",
+  "imgsrc": "NAMI.png",
+  "description": "NAMI Care Club is the Whitney Young branch of the National Alliance on Mental Illness. We focus on stress relief and mental health care to help prevent the depletion of our mental states. We meet one day a month to just take some time to take care of ourselves.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "hahansraj@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Nelson"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursdays Once a Month 3:30-4 in room 210."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

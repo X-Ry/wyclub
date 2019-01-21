@@ -1,0 +1,28 @@
+{
+  "name": "Whitney Young Filipino American Culture Club",
+  "imgsrc": "Filipino.jpg",
+  "description": "This club is intended to showcase Filipino culture and teach students how Filipino culture impacts the world and our individual communities.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "djbalcita@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Bridget Nelson"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesday after school in room 310."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Students for Equity",
+  "imgsrc": "haiti.jpg",
+  "description": "To make WY an inclusive community for all students regardless of background; to give a voice to students who feel marginalized.  TO foster communication between the student body and faculty/staff of building.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "rborden@cps.edu "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Rachel El-Amin"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesday 3:30 1-2 times a month  in room 310."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

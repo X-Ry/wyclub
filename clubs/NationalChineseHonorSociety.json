@@ -1,0 +1,28 @@
+{
+  "name": "National Honor Society",
+  "imgsrc": "NHS.jpg",
+  "description": "The National Honor Society (NHS) is the nation’s premier organization established to recognize outstanding high school students. More than just an honor roll NHS serves to recognize those students who have demonstrated excellence in the areas of scholarship service leadership and character.The WYHS's Windy City Chapter of the National Honor Society was established in 1978",
+  "officers": [
+    {
+      "position": "President",
+      "name": "k.fani10@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ha Yeyoung"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "General Assembly meetings are once a month. Different officers meet on different occasions. All 14 officers will be checking in weekly at room 314. "
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

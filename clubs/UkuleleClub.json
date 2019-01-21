@@ -1,0 +1,28 @@
+{
+  "name": "Ukulele Club",
+  "imgsrc": "ukulele.png",
+  "description": "This club meets every week to teach ukulele skills and provide an outlet to share and talk. It benefits students by giving them a simple way to learn musical knowledge and let them relax after a long day. It helps mental health by keeping students happy with a comfortable stress free environment.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "mpieper@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "James Barbick"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesdays from 3:30-4:30pm in room 198C."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "name": "Young Voices",
-  "imgsrc": "club.jpg",
+  "imgsrc": "voice.jpg",
   "description": "The Young Voices is Whitney Young’s only a cappella ensemble! We are a friendly musically-inclined vibrant group of people who enjoy learning & performing music from various genres. We support each other’s individuality regarding both our musicianship & personal growth.",
   "officers": [
     {
-      "position": "Club Lead",
-      "name": "Kmoynihan@cps.edu 	Mondays & Fridays 3:30-4:30"
+      "position": "President",
+      "name": "Kmoynihan@cps.edu "
     
     },
     {
@@ -16,13 +16,13 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Mondays & Fridays 3:30-4:30 .Choir Room."
+      "description": "Club meetings take place Mondays & Fridays 3:30-4:30 in Choir Room."
     }
   ],
   "links": [
     {
-      "title": "Team Site",
-      "link": "    "
+      "title": "Team Page",
+      "link": ""
     }
   ]
 }

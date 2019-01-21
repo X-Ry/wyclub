@@ -1,0 +1,28 @@
+{
+  "name": "Writers Club",
+  "imgsrc": "writer.jpg",
+  "description": "A supportive environment for students to write creatively share what they have written with their peers and if desired receive feedback.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "iweston@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Pasulka"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Fridays at 3:20 in room 214."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "WY Open Books",
+  "imgsrc": "Openbook.jpg",
+  "description": "WY Open Books is a club committed to reading books from a variety authors from diverse backgrounds. We read books from different time periods on a range of topics from all over the world. We are also dedicated to a number of literacy focused charities and volunteer opportunities including book drives and fundraising for the Chicago public libraries.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Gweiner@cps.edu, hmcknight@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Tejano"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place first Tuesday of every month at 3:30 in room 208."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

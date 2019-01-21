@@ -1,0 +1,28 @@
+{
+  "name": "Rock and Roll Club",
+  "imgsrc": "rockandroll.jpg",
+  "description": "Learning about classic rock and the history of it. Spreading awareness about good music.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "nswax-groot@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms.Wax"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursdays: 3:30-4:30 after school in Ms.Wax’s classroom ."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "SHPE Jr. ",
+  "imgsrc": "SHPE.jpg",
+  "description": "SHPE Jr is dedicated to expose the WY school community to a path for post-secondary success oriented around STEM. In particular we serve through providing mentor-ship scholarship opportunities seminars company tours and other beneficial opportunities. ",
+  "officers": [
+    {
+      "position": "President",
+      "name": "shpejr.uic@gmail.com"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": ""
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursday 3:30-4:10 in room TBD."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

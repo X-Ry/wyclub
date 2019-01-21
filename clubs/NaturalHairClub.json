@@ -1,0 +1,28 @@
+{
+  "name": "Natural Hair Club",
+  "imgsrc": "hair.jpg",
+  "description": "A club that embraces and celebrates the culture behind natural hair. Students meet to discuss hair care techniques recipes for natural hair products and educational talks surrounding natural hair care and hair care issues. This club creates a safe space for students to learn about a part of their own identity and to learn how to embrace who they are naturally.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "glsullivan2@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Karren Boatner"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesdays after school in room 220."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

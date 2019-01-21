@@ -1,0 +1,28 @@
+{
+  "name": "Jazz Band",
+  "imgsrc": "jazz.jpg",
+  "description": "This is a club for student musicians that are not in the Jazz Ensemble class but would still like participate in a Jazz Band.",
+  "officers": [
+    {
+      "position": "President",
+      "name": ""
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Barbick"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wed 3:20 after school in room 198."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

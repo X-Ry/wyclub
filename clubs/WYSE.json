@@ -1,0 +1,28 @@
+{
+  "name": "Whitney Young Stock Exchange (WYSE)",
+  "imgsrc": "stock.jpg",
+  "description": "Club will revolve around the stock market and events within it. Simulators will be run to see who can make the most virtual money using real world events to guide their reasoning. Will benefit the Young community as it encourages students to learn how the financial world around them works.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Mdrusanov@cps.eduw"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Jamie Walters"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": " We will meet around once a month at A PE Building Classroom."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

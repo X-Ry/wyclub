@@ -1,0 +1,28 @@
+{
+  "name": "Thrive Club",
+  "imgsrc": "Thrive.jpg",
+  "description": "We work to raise money and volunteer at the Lydia Home which is a group foster home for children in the Chicago area.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "rsosnowski@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Washington"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursdays from 3:30-4 in room 348."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

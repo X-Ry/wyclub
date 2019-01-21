@@ -1,0 +1,28 @@
+{
+  "name": "Japanese Club",
+  "imgsrc": "Japanese.jpg",
+  "description": "A club that focuses on and teaches about Japanese culture. Students get to learn about and experience a new culture.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "slobato1@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Risa Turner"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Mondays 3:30-4:30 after school in room 3106."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "WY Clear the Sky",
+  "imgsrc": "clearthesky.jpg",
+  "description": " Our goal is to benefit our community by doing simple projects such as our beach clean ups and habitat restorations. We want this club to be a place where members can learn more about nature and to also destress from school.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "gekuehn@cps.edu "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Todd Katz"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesdays after school @ Green House or room 320."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

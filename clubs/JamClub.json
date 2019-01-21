@@ -1,0 +1,28 @@
+{
+  "name": "Jam Club",
+  "imgsrc": "jam.jpg",
+  "description": "Jam Club is a place for musicians to gather learn songs and jam. Student musicians with a focus in rock can meet and make bands and practice in the guitar room. Students will learn about proper amp and instrument care basics of bass and drums songwriting and improvising.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "dplys@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr Peek"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesdays from 3:30 to 4:30 after school in room 190."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

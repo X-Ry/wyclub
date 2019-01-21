@@ -1,0 +1,28 @@
+{
+  "name": "Think Globally Act Locally",
+  "imgsrc": "local.jpg",
+  "description": "We aim to educate others on the importance of sustainability and preservation. We incorporate minimalist ideas in order to make the most out of everyday items.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "alozano6@cps.edu "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr Mascari"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place time TBD in room 188."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

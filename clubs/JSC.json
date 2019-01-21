@@ -1,0 +1,28 @@
+{
+  "name": "JSC (Jewish Student Connection)",
+  "imgsrc": "jewishstudentconnection.jpg",
+  "description": "Non-denomonation club that explores culture music holidays and other aspects of the Jewish faith and culture. There are no fees and everyone is welcome.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "hbrown16@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Darrell Quinn"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place every other Tuesday after school in room 297."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

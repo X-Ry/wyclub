@@ -1,0 +1,28 @@
+{
+  "name": "Wise Guys",
+  "imgsrc": "wise.jpg",
+  "description": "This is a club for those who enjoy economics and would like to learn more about economics and its concepts.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "akwong@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Kevin Waller"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Friday after school in room 210."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

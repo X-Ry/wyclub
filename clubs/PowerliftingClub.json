@@ -1,0 +1,28 @@
+{
+  "name": "Powerlifting Club",
+  "imgsrc": "GiHoPowerlifter-8190-2-768x432.jpg",
+  "description": "We meet weekly to lift weights and get stronger physically and mentally through a powerlifting focused workout. We are a growing community that will continue to get stronger and win meets.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "ghojeong@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mike Hinrichs"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Mon-Fri 6:45-7:45 after school in Weight room."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

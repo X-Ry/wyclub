@@ -1,0 +1,28 @@
+{
+  "name": "WY Gardening Club",
+  "imgsrc": "garden.jpg",
+  "description": "The Whitney Young Gardening Club aims to teach our members how to grow and care for plants and promotes environmental awareness which is especially important in our urban setting. The plants that we nurture help to create an ambiance that reduces stress and anxiety in the school while simultaneously inspiring a love for gardening.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "atorres18@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Todd Katz"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place after school on Tuesdays in room 320."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

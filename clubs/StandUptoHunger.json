@@ -1,0 +1,28 @@
+{
+  "name": "Stand Up to Hunger",
+  "imgsrc": "standuptohunger.jpg",
+  "description": "Fund raise for Food depository and do community projects to help end hunger in the United States.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "kyreid@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Claudia Narvaez"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Every Other Monday 3:30-4:00 in room 106."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
