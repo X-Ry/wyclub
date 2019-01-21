@@ -1,22 +1,22 @@
 {
-  "name": "ASL Club",
-  "imgsrc": "asl.jpg",
-  "description": "ASL club provides an opportunity for students to learn and use American Sign Language and communicate with students who are Deaf or Hard-of-Hearing!",
+  "name": "Comics and Zines Club",
+  "imgsrc": "zines-thumb.jpg",
+  "description": "The Comics and Zines club has been at Whitney Young for two years providing a place to chill out from a long day of school and create something. Though originally focused on zines this year it will expand as well to mainstream comics and any type of sequential art. Zines and comics are a wonderful way to express oneself promote ideas and showcase any number of talents.",
   "officers": [
     {
       "position": "President",
-      "name": "smunoz24@cps.edu"
+      "name": "mhmusker@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Bret Roberts"
+      "name": "Florian Palucci"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesdays at 3:30 in room 131."
+      "description": "Club meetings take place Mondays at 3:30 in room 178."
     }
   ],
   "links": [

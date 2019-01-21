@@ -1,22 +1,22 @@
 {
-  "name": "ASL Club",
-  "imgsrc": "asl.jpg",
-  "description": "ASL club provides an opportunity for students to learn and use American Sign Language and communicate with students who are Deaf or Hard-of-Hearing!",
+  "name": "Certamen Club",
+  "imgsrc": "club.jpg",
+  "description": "Latin students work together to prepare for academic competitions against other Illinois schools. At the competitions (held both at Whitney Young and throughout the city and state) students work within small teams to answer questions about Latin classical mythology ancient history etc. Students prep one another to be as competitive as possible and their hard work pays off: every year our teams win city and state championships!",
   "officers": [
     {
       "position": "President",
-      "name": "smunoz24@cps.edu"
+      "name": "mfondren@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Bret Roberts"
+      "name": "Sarah Wender"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesdays at 3:30 in room 131."
+      "description": "Club meetings take place every day before and after school in room 213."
     }
   ],
   "links": [

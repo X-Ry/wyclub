@@ -1,22 +1,22 @@
 {
-  "name": "ASL Club",
-  "imgsrc": "asl.jpg",
-  "description": "ASL club provides an opportunity for students to learn and use American Sign Language and communicate with students who are Deaf or Hard-of-Hearing!",
+  "name": "Child Life Club",
+  "imgsrc": "club.jpg",
+  "description": "We will collect items for the Comer Children’s Hospital like books and clothing through different drives throughout the year.",
   "officers": [
     {
       "position": "President",
-      "name": "smunoz24@cps.edu"
+      "name": "ecpeek@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Bret Roberts"
+      "name": "Lisa Wax"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesdays at 3:30 in room 131."
+      "description": "Club meetings TBD in room 179."
     }
   ],
   "links": [
