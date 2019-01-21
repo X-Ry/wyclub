@@ -1,0 +1,28 @@
+{
+  "name": "Doctors Without Boarders Club",
+  "imgsrc": "doctor.jpg",
+  "description": "Our club is one that works with the community at WY to provide volunteer opportunities and raise money for the organization (doctors without boarders).",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Arhamlish@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Karen Trine"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Monday’s for the first 15-30 minuets After school in Ms.Trine's room."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
