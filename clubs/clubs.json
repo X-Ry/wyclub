@@ -1,5 +1,5 @@
 [
-  "AbandonedAnimals",
+  /*"AbandonedAnimals",
   "AC_Running",
   "AC_ScienceBowl",
   "AC_ScienceBowlNational",
@@ -28,11 +28,11 @@
   "Coffee",
   "CoffeeShop",
   "CoffeehouseCrew",
-  "ComicsandZines",
+  "ComicsandZines",*/
   "math",
   "badminton",
-  "Fashion",
-  "Film",
+  "Fashion", 
+ /* "Film",
   "YoungVoices",
   "ChicagoOutreach",
   "LatinDance",
@@ -42,5 +42,5 @@
   "Podcast",
   "Blanket",
   "Pride",
-  "Powerlifting"
+  "Powerlifting" */
 ]
