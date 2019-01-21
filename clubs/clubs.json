@@ -1,5 +1,14 @@
-[
-  /*"AbandonedAnimals",
+[ "math",
+  "badminton",
+  "Fashion",
+  "Film",
+  "ChicagoOutreach",
+  "LatinDance",
+  "LaTinosUnidos", 
+  "LiftMoms",
+  "Podcast",
+  "Blanket",
+  "AbandonedAnimals",
   "AC_Running",
   "AC_ScienceBowl",
   "AC_ScienceBowlNational",
@@ -7,7 +16,7 @@
   "Aerospace",
   "AfricanAmericanCulture",
   "Allergy",
-  "AmnestryInternational",
+  "AmnestyInternational",
   "AquaticConservation",
   "BakeSaleforJustice",
   "Art",
@@ -28,19 +37,5 @@
   "Coffee",
   "CoffeeShop",
   "CoffeehouseCrew",
-  "ComicsandZines",*/
-  "math",
-  "badminton",
-  "Fashion"
- /* "Film",
-  "YoungVoices",
-  "ChicagoOutreach",
-  "LatinDance",
-  "LaTinosUnidos",
-  "LiftMoms",
-  "MediClub",
-  "Podcast",
-  "Blanket",
-  "Pride",
-  "Powerlifting" */
+  "ComicsandZines" 
 ]
