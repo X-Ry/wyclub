@@ -1,0 +1,28 @@
+{
+  "name": "Eco Club",
+  "imgsrc": "eco.jpg",
+  "description": "We have animals and plants and the Greenhouse (outside) we want to teach students (and adults) the benefits of helping the environment and we like to talk about the little things that we can do. We also do the recycling around the school which is just one example of what people can do to help out. During the school we also work to try and help to water all of the plants around the school (the janitors usually help us out with that during breaks too). Overall though we're here to provide a new experience to students.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "nkmeimaris@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "MMr. Katz"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesdays and Thursdays at 3:30 in room 320."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
