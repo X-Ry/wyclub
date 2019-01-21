@@ -1,0 +1,28 @@
+{
+  "name": "Balance and Well-Being",
+  "imgsrc": "balance.png",
+  "description": "Helps students through meditation Intent bracelets and other activities practice mindfulness and reduce anxiety!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "msalchli@cps.edu "
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Sheila Lent"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Tuesdays at 3:20. in room 205."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

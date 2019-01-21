@@ -1,0 +1,28 @@
+{
+  "name": "ASL Club",
+  "imgsrc": "asl.jpg",
+  "description": "ASL club provides an opportunity for students to learn and use American Sign Language and communicate with students who are Deaf or Hard-of-Hearing!",
+  "officers": [
+    {
+      "position": "President",
+      "name": "smunoz24@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Bret Roberts"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesdays at 3:30 in room 131."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

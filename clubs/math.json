@@ -1,23 +1,19 @@
 {
   "name": "Math",
   "imgsrc": "math.png",
-  "description": "try again. Welcome to Whitney Young Math Team! A Team prepares for and participates in Area math team competitions",
+  "description": "Welcome to Whitney Young Math Team! Our Team prepares for and participates in Area math team competitions",
 
 
   "officers": [
     {
       "position": "Advisor",
       "name": "Julienne Aug"
-    },
-    {
-      "position": "Advisor",
-      "name": ""
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Meetings take place biweekly in room 206 during lunchtime."
+      "description": "Meetings take place Tuesday Wednesday Thursday in room 279."
     }
   ],
   "links": [
