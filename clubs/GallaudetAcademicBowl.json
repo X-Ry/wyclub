@@ -1,22 +1,22 @@
 {
-  "name": "Elite Cubing",
-  "imgsrc": "Elite.jpg",
-  "description": "The club will work with advanced puzzles.  This will help students to think outside the box.",
+  "name": "Gallaudet Academic Bowl",
+  "imgsrc": "gallaudet.jpg",
+  "description": "Gallaudet Academic Bowl is a club for deaf and hard of hearing WY students that compete against other deaf academic bowl teams.",
   "officers": [
     {
       "position": "President",
-      "name": "ewalpizar@cps.edu"
+      "name": "msberrios@cps.edu"
     
     },
     {
       "position": "Advisor",
-      "name": "Susan Gustavson"
+      "name": "Ms. Simon"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Tuesdays and Wednesday 3:15 in room 295."
+      "description": "Club meetings take place Wednesday 3:20pm-4:30pm in room 142."
     }
   ],
   "links": [
