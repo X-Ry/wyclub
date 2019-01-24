@@ -1,7 +1,7 @@
 {
-  "name": "Badminton",
+  "name": "Badminton Club",
   "imgsrc": "badminton.png",
-  "description": "Bedminton Club is a place for people to enjoy playing badminton while having time to hangout,socialize, and make friends.",
+  "description": " Badminton Club is a place for people to enjoy playing badminton while having time to hang out, socialize, and make friends..",
   "officers": [
     {
       "position": "President",
@@ -11,7 +11,7 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Badminton Club meetings every Friday after school at Gym."
+      "description": "Badminton Club meetings every Friday after school in Gym C."
     }
  ],
    "links": [

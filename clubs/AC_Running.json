@@ -1,7 +1,7 @@
 {
   "name": "Academic Center Running",
   "imgsrc": "running.png",
-  "description": "Welcome to Whitney Young Academic Center Running Club! Athletic extracurricular for AC students - all sports and abilities welcome. Build camaraderie among ac students develop athletic skills and character.",
+  "description": "Welcome to the Whitney Young Academic Center Running Club! Athletic extracurricular for AC students - all sports and abilities welcome. Build camaraderie among AC students and develop athletic skills and character.",
   "officers": [
     {
       "position": "President",
@@ -10,7 +10,7 @@
     },
     {
       "position": "Advisor",
-      "name": "Ms. Edwards"
+      "name": "Mr. Edwards"
     }
   ],
   "announcements": [
@@ -21,7 +21,7 @@
   ],
   "links": [
     {
-      "title": "Facebook Page",
+      "title": "Team Page",
       "link": ""
     }
   ]

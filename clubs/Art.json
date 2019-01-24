@@ -1,7 +1,7 @@
 {
   "name": "Art Inc.",
   "imgsrc": "comics.jpg",
-  "description": "Artists illustrators comix lovers come hang out and draw with us on Thursdays after school. We'll keep you updated on art centers that offer classes and camps we'll give you demonstrations on using new drawing materials if you'd like to improve!",
+  "description": "Artists, illustrators, comix lovers, come hang out and draw with us on Thursdays after school. We'll keep you updated on art centers that offer classes and camps, and we'll give you demonstrations on using new drawing materials if you'd like to improve!",
   "officers": [
     {
       "position": "President",
@@ -16,7 +16,7 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Thursdays 3:30-4:30pm in room 181."
+      "description": "Club meetings take place Thursdays 3:30-4:30 in Room 181."
     }
   ],
   "links": [

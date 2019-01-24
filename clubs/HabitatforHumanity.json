@@ -1,7 +1,7 @@
 {
   "name": "Habitat for Humanity",
   "imgsrc": "habitforhumanity.jpg",
-  "description": "Volunteer for Habitat for Humanity Chicago fundraise for Habitat goal is to volunteer in New Orleans.",
+  "description": "Volunteer for Habitat for Humanity Chicago. Fundraise for the habitat!",
   "officers": [
     {
       "position": "President",
@@ -10,7 +10,7 @@
     },
     {
       "position": "Advisor",
-      "name": "Mr. pasowicz"
+      "name": "Mr. Pasowicz"
     }
   ],
   "announcements": [
