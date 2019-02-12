@@ -1,22 +1,22 @@
 {
-  "name": "Helping Haiti",
-  "imgsrc": "haiti.jpg",
-  "description": "Club that collects donations(clothes medicine etc) and money for relief in Haiti.",
+  "name": "National Honor Society (NHS) ",
+  "imgsrc": "NHS.jpg",
+  "description": "The Windy City Chapter of the  National Honor Society (NHS) was established in 1978. Membership is awarded to students who demonstrate the four pillars: Scholarship, Leadership, Service and Character. Sophomore and Junior students who meet the eligibility criteria receive an invitation to apply as rising Juniors and Seniors.",
   "officers": [
     {
       "position": "President",
-      "name": "kyreid@cps.edu"
+      "name": "wyoungnhs@gmail.com "
     
     },
     {
       "position": "Advisor",
-      "name": "Bridget Nelson"
+      "name": "Ha Yeyoung"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesday after school in room 310."
+      "description": "General Assembly meetings take place once a month in the Library."
     }
   ],
   "links": [
