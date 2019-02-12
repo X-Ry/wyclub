@@ -1,9 +1,14 @@
 {
   "name": "Lift Moms Lift The World",
   "imgsrc": "helpmother.jpg",
-  "description": "Supporting mothers single mothers and women or girls in a society that takes a lot of the work and emotional labor that women do for granted!",
+  "description": "LMLTW is all about supporting and uplifting moms in Chicago through things like volunteer work, donations, and fundrasing. There is a focus on single mothers and mothers in poverty!",
   "officers": [
     {
+
+
+      "position": "Club Leader",
+      "name": "ramegatcher@cps.edu, aking28@cps.edu"
+
       "position": "Advisor",
       "name": "Stuart Abram"
     }
@@ -11,7 +16,7 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Every other Thursday 3:30 - 4:30 in room 277."
+      "description": "Every Friday 3:30 to 4:30 in room 277. Club Fee: $5 or less"
     }
   ],
   "links": [
