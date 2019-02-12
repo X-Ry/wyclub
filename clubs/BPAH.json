@@ -1,0 +1,28 @@
+{
+  "name": "BPA High School",
+  "imgsrc": "BPAH.jpg",
+  "description": "National organization to support and promote business courses by allowing students to compete in 80 different competitions as the local, state and national level.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Adrian Puga <Apuga2@cps.edu>, David Bradford <dbradford8@cps.edu>"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Uhl-Alba"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place every Wednesday after school til 4:30 in Room 110. Fee: $25 a year to pay for state and national dues."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": "https://www.wyoung.org/apps/news/show_news.jsp?REC_ID=514774&id=0"
+    }
+  ]
+}
