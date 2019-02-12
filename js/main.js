@@ -39,7 +39,7 @@ function chooseRandomErrorMessage() {
       "Sike"
     ], nouns = [
     "student",
-    "Vaquero",
+    "Whitney Young",
     "scholar dollar",
     "swag master"
   ];
