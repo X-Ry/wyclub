@@ -5,14 +5,13 @@
   "officers": [
     {
       "position": "President",
-      "name": "szerman31@gmail.com"
-    
+      "name": "szerman31@gmail.com" 
     },
     {
       "position": "Advisor",
-      "name": "Darrell Quinn"
-    }
+      "name": "Darrell Quinn"}
   ],
+  
   "announcements": [
     {
       "title": "Meetings",
