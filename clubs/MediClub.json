@@ -1,28 +1,28 @@
 {
   "name": "Medi Club",
-  "imgsrc": "haiti.jpg",
-  "description": "Club that collects donations(clothes medicine etc) and money for relief in Haiti.",
+  "imgsrc": "Medi.jpg",
+  "description": "MediClub is a medical club dedicated to providing students with experience and opportunities to learn within the medical field. All our members are offered certification in CPR, First Aid, and AED. We provide students the opportunity to listen to guest speakers, volunteer at some of the world's top rated hospitals, participate in hands-on medical workshops, and learn very valuable information to help us prepare for pre-med. Throughout the year we also participate in service trips, most recently to Antigua, Guatemala.Our goal is to help each student find their passion. We found OUR passions. What's yours?",
   "officers": [
     {
-      "position": "President",
-      "name": "kyreid@cps.edu"
+      "position": "Contact",
+      "name": "wymediclub@gmail.com"
     
     },
     {
       "position": "Advisor",
-      "name": "Bridget Nelson"
+      "name": "Ms. Smith"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place Wednesday after school in room 310."
+      "description": "Club meetings take place Wednesdays at 3:30 in room 319."
     }
   ],
   "links": [
     {
-      "title": "Team Page",
-      "link": ""
+      "title": "Team Site",
+      "link": "http://www.mediclubs.com/whitney-young/"
     }
   ]
 }
