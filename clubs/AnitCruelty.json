@@ -1,0 +1,28 @@
+{
+  "name": "Anti-Cruelty Society Club",
+  "imgsrc": "AntiCruelty.jpg",
+  "description": "Opening the eyes of high school teens to the unnecessary and horrid abuse brought upon animals by cruel people. We want to help shelters by raising money and donating time and materials as well as combat any and all animal abuse. This will help the WY community because it will raise peoples awareness about this issue, and bring students together through community service and leadership.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Adriana Brist abrist@cps.edu , Megan Miller mdmiller6@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Katz"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place First Tuesday of every month after school in Room Green House. Club Fee: more than $10"
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}

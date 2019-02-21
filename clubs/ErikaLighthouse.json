@@ -1,0 +1,28 @@
+{
+  "name": "Erika's Lighthouse",
+  "imgsrc": "ErikaLighthouse.jpg",
+  "description": "Mental health awareness club/fundraising club.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Chloe Baskes cbaskes@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Smith"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Every other Wednesday right after school in room 319."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
