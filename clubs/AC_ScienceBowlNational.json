@@ -1,5 +1,5 @@
 {
-  "name": "Acdemic Center ScienceBowl",
+  "name": "Academic Center Science Bowl",
   "imgsrc": "science.png",
   "description": "Students meet to practice for the Middle School Science Bowl competition!",
   "officers": [
@@ -16,7 +16,7 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Meetings take place Wednesday and Friday from 3:25 to 5 after school in room 330."
+      "description": "Meetings take place Wednesday and Friday from 3:25 to 5:00 after school in Room 330."
     }
   ],
   "links": [
