@@ -4,19 +4,19 @@
   "description": "Robotics team uses a modular robotics platform to conceive, build, and compete in a FIRST-designed game. We design, build, and program robots, get hands-on programming and rapid-prototyping experience, apply real-world math and science concepts, document the engineering process, and develop problem-solving, organizational, and team-building skills.",
   "officers": [
     {
-      "position": "President",
-      "name": "Gabriel Laniewski <glaniewski@cps.edu>, Nicolas Murolo <nvmurolo@cps.edu>"
+      "position": "Captains",
+      "name": "Chloe Leung <cyleung1@cps.edu>, Jason Guo <jkguo1@cps.edu>"
     
     },
     {
-      "position": "Advisor",
+      "position": "Coach",
       "name": "Andrew Mauer-Oats"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Robotics meetings take place on Monday and Wednesday in room 109."
+      "description": "Robotics meetings take place on Monday and Thursday from 3:30 to 5:00 in room 109."
     }
   ],
   "links": [
