@@ -1,0 +1,28 @@
+{
+  "name": "Origami Club",
+  "imgsrc": "Origami.jpg",
+  "description": "Students will engage in making origami and creating art works using origami.",
+  "officers": [
+    {
+      "position": "President",
+      "Samuel Zhen": "szhen@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Risa Turner"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place every other Friday in 305 or Gold House."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
