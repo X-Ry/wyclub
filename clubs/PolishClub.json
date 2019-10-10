@@ -1,7 +1,7 @@
 {
   "name": "Polish Club",
   "imgsrc": "polisheggs2.jpg",
-  "description": "Polish club's goal is to inform about polish culture and promote polish values and provide fun educational expirences.",
+  "description": "Polish Club's goal is to inform about Polish culture and promote polish values and provide fun educational expirences.",
   "officers": [
     {
       "position": "President",
@@ -10,7 +10,7 @@
     },
     {
       "position": "Advisor",
-      "name": "Mr. pasowicz"
+      "name": "Mr. Pasowicz"
     }
   ],
   "announcements": [

@@ -16,13 +16,13 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Robotics meetings take place on Monday and Thursday from 3:30 to 5:00 in room 109."
+      "description": "Robotics meetings take place on Monday and Thursday from 3:30 to 5:00 in Room 109."
     }
   ],
   "links": [
     {
       "title": "Facebook Page",
-      "link": ""
+      "link": "https://www.facebook.com/wyrobotics/"
     }
   ]
 }
