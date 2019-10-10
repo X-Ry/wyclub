@@ -1,7 +1,7 @@
 {
-  "name": "Math Club",
+  "name": "Math Team",
   "imgsrc": "math.png",
-  "description": "Welcome to Whitney Young Math Team! Our Team prepares for and participates in Area math team competitions",
+  "description": "Welcome to Whitney Young Math Team! Our Team prepares for and participates in math competitions.",
 
 
   "officers": [
@@ -13,7 +13,7 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Meetings take place Tuesday Wednesday Thursday in room 279."
+      "description": "Meetings take place Tuesday, Wednesday and Thursday in room 279."
     }
   ],
   "links": [
