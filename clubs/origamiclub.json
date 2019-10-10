@@ -1,11 +1,11 @@
 { 
    "name":"Origami Club",
-   "imgsrc":"origami.png",
+   "imgsrc":"Origami.jpg",
    "description":"Welcome to the Whitney Young Origami Club! Where we make origami and hang out! At least 90 percent of our earnings will be donated to charity.",
    "officers":[ 
       { 
          "position":"President",
-         "name":" sgrhee@cps.edu "
+         "name": "sgrhee@cps.edu"
       },
       { 
          "position":"Advisor",
