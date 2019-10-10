@@ -1,0 +1,28 @@
+{
+  "name": "Best Buddies",
+  "imgsrc": "BestBuddies.jpg",
+  "description": "Best Buddies promotes inclusion and friendship among students with and without intellectual disabilities. Members are paired in a one to one friendship with a student with an intellectual disability. They will have opportunities to hang out with them bi-weekly during structured meetings and will be expected to spend time with them outside of meeting times. The club promotes inclusion of and respect for students with disabilities in the WY community.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Evan McMahon - emcmahon1@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Jaime Ropski"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Wednesdays during Long Division in Gym C."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
