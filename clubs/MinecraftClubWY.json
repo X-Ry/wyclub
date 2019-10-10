@@ -1,6 +1,6 @@
 {
   "name": "Minecraft Club",
-  "imgsrc": "",
+  "imgsrc": "minecraft.png",
   "description": "Come one come all to be apart of a spicy survival minecraft server where we develop our redstone skills, building skills, and just have fun!",
   "officers": [
     {
@@ -16,7 +16,7 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Meetings take place every tuesday from 3:15 (shouldn't last longer than 45 mins) after school in Room 345."
+      "description": "Meetings take place every Tuesday from 3:15 (shouldn't last longer than 45 mins) after school in Room 345."
     }
   ],
   "links": [
