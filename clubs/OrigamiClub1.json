@@ -1,0 +1,27 @@
+{ 
+   "name":"Origami Club",
+   "imgsrc":"Origami.jpg",
+   "description":"Welcome to the Whitney Young Origami Club! Where we make origami and hang out! At least 90 percent of our earnings will be donated to charity.",
+   "officers":[ 
+      { 
+         "position":"President",
+         "name": "sgrhee@cps.edu"
+      },
+      { 
+         "position":"Advisor",
+         "name":"Mrs. Turner (Risa Turner)"
+      }
+   ],
+   "announcements":[ 
+      { 
+         "title":"Meetings",
+         "description":"Club meetings take place on Fridays at 3:30 to 5:00 in (no room yet)"
+      }
+   ],
+   "links":[ 
+      { 
+         "title":"Team Page",
+         "link":""
+      }
+   ]
+}
