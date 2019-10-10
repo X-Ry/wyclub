@@ -1,7 +1,7 @@
 {
-  "name": "Origami Club (Old)",
+  "name": "Origami Club",
   "imgsrc": "Origami.jpg",
-  "description": "Students will engage in making origami and creating art works using origami.",
+  "description": "Welcome to the Whitney Young Origami Club! Where we make origami and hang out! At least 90 percent of our earnings will be donated to charity.",
   "officers": [
     {
       "position": "President",
@@ -10,13 +10,13 @@
     },
     {
       "position": "Advisor",
-      "name": "Risa Turner"
+      "name": "Mrs. Turner (Risa Turner)"
     }
   ],
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place every other Friday in 305, Green House or Gold House."
+      "description": "Club meetings take place on Fridays at 3:30 to 5:00 in (no room yet)"
     }
   ],
   "links": [
