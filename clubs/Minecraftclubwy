@@ -1,0 +1,29 @@
+{
+  "name": "Minecraft Club",
+  "imgsrc": "",
+  "description": "Come one come all to be apart of a spicy survival minecraft server where we develop our redstone skills, building skills, and just have fun!",
+  "officers": [
+    {
+      "position": "Presidents",
+      "name": "nwilliams53@cps.edu pwood-princ@cps.edu erburleigh@cps.edu daolmo@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Ryder"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Meetings take place every tuesday from 3:15 (shouldn't last longer than 45 mins) after school in Room 345."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
+"© 2019 GitHub, Inc.t"
