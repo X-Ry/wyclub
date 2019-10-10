@@ -33,15 +33,14 @@ document.getElementById("search").onchange = (event) => {
 // Helper Functions
 function chooseRandomErrorMessage() {
   const msgs = [
-      "Yikes",
+      "Try again",
       "Nice try",
       "Oops",
-      "Sike"
+      "Yikes"
     ], nouns = [
-    "student",
-    "Whitney Young",
-    "scholar dollar",
-    "swag master"
+    "dolphin",
+    "champ",
+    "scholar dollar"
   ];
   return `${msgs[Math.floor(Math.random() * msgs.length)]}, ${nouns[Math.floor(Math.random() * nouns.length)]}. No matches :/`;
 }
