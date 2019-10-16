@@ -1,0 +1,28 @@
+{
+  "name": "HOSA Club",
+  "imgsrc": "hosa.jpg",
+  "description": "HOSA – Future Health Professionals is an international organization that stands for future health care professionals. The mission of HOSA is to empower future Health Professionals to become leaders in the global health community through education, collaboration, and experience.",
+  "officers": [
+    {
+      "position": "President",
+      "name": "Faith Geevarghese: fgeevarghes@cps.edu; Francesca Sadovi: fsadovi@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Ms. Garcia"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Club meetings take place Thursdays at 3:30 in Room 319."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
